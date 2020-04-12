@@ -1,17 +1,9 @@
-# Popular-Movies-Stage-II
 
-![Android](https://img.shields.io/badge/Platform-Android-green.svg)   ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-<br />
-Submission for Android NanoDegree Project
 
-## Contents
-**#1 [Movie Feast - II](https://github.com/SyamSundarKirubakaran/Popular-Movies-Stage-II)** 
-- Nano Degree Submission - Popular Movies Stage II
 
-## Preliminary works
-- Check out my [AndroidWorks](https://github.com/SyamSundarKirubakaran/AndroidWorks) Repository to find out how I learnt step by step to accomplish this result.
 
-## Movie Feast - II:
+
+## Movie Feast
 An app that uses the [Movies.db API](https://www.themoviedb.org/?language=en) to find the popular movies,Top rated,Now playing and Up coming movies in realtime and inflate the activities with the data of those movies accordingly. <br />
 
 **Things I've Learnt:**
