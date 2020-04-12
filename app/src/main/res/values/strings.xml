@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Feast</string>
+    <string name="title_activity_detailed">Movie Name</string>
+    <string name="action_settings">Share</string>
+    <!-- TODO! Add your API key here! -->
+    <string name="API_key">YOUR_API_KEY</string>
+</resources>
